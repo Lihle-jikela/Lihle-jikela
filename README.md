@@ -3,8 +3,13 @@
 ```yaml
 Role: Automation Specialist | SecOps & IT Operations Infrastructure
 Focus: Cybersecurity Automation, Systems Engineering, IT Diagnostics
+Portfolio Site: https://lihle-jikela.github.io/myportfolio/
 Motto: "Automate everything, secure everywhere, optimize always."
 ```
+
+---
+
+### 🌐 [Click to Visit My Official Portfolio Site](https://lihle-jikela.github.io/myportfolio/)
 
 ---
 
@@ -43,5 +48,6 @@ Motto: "Automate everything, secure everywhere, optimize always."
 ---
 
 ### 📫 Connect With Me
-- 💼 **LinkedIn**: [linkedin.com/in/Lihle-jikela](https://linkedin.com)
-- 🌐 **GitHub**: [github.com/Lihle-jikela](https://github.com/Lihle-jikela)
+- 🌐 **Portfolio Website**: [lihle-jikela.github.io/myportfolio](https://lihle-jikela.github.io/myportfolio/)
+- 💼 **LinkedIn**: [linkedin.com/in/lihle-jikela-17ab05208/](https://www.linkedin.com/in/lihle-jikela-17ab05208/)
+- 📧 **Email**: `jikelalihle@gmail.com`
